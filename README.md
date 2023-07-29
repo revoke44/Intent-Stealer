@@ -6,10 +6,6 @@ Intent is a light weight stealer coded in C# and Javascript.
 
 1. Run the intent.exe file for the stub builder to start.
 
-It will show a GUI : 
-
-https://github.com/revoke44/Intent-Stealer/blob/main/UI.png
-
 2. Put your webhook url in, enable what you want to enable and click build.
 
 3. After it is done building you should find a file named main.exe in the new dist folder.
