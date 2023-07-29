@@ -1,2 +1,2 @@
 # Intent-Stealer
-Quick Stub Builder
+Stub Builder
