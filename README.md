@@ -7,4 +7,4 @@ Intent is a light weight stealer coded in C# and Javascript.
 Run the intent.exe file for the stub builder to start.
 It will show a gui : 
 
-https://cdn.discordapp.com/attachments/1131258553148117032/1133517777890717737/image.png
+[https://cdn.discordapp.com/attachments/1131258553148117032/1133517777890717737/image.png](https://github.com/revoke44/Intent-Stealer/blob/main/UI.png)https://github.com/revoke44/Intent-Stealer/blob/main/UI.png
